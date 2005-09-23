@@ -1,0 +1,18 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1368
+
+ BOOKMARKS OVERVIEW
+ ------------------
+ Bookmarks.vim provides an intuitive menu driven interface to facilitate 
+ bookmarking files and directories in gvim.  
+ 
+    Bookmark Features:
+       -Configurable \"popup\" bookmark menu
+       -Bookmarks contain file name and part of text from bookmarked file, making it easier to remember.
+       -The whitespace in bookmarks is compressed, increasing readability.
+       -Can have unlimited number of bookmarks.
+       -Can bookmark place in help files.
+       -Can bookmark local files, remote files, and directories.
+       -Can bookmark blank lines - Line number used.
+       -Can bookmark gvim on-line help docs.
+       -Includes full function bookmark editor -- It&#039s called gvim!
+
